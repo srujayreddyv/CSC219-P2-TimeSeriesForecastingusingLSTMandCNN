@@ -1,0 +1,7 @@
+# Classification Dataset: Strawberry 
+
+Description: Food spectrographs, particularly the SPECTRO system, are employed in chemometrics to classify food types, specifically authentic strawberries and non-strawberry counterparts, which may include adulterated strawberries and various other fruits. The classification process is facilitated using data derived from Fourier transform infrared (FTIR) spectroscopy, utilizing attenuated total reflectance (ATR) sampling. The model was trained on a dataset with 613 samples and tested on 370 samples, with a dataset length of 235, encompassing two distinct classes and a single dimension.
+
+# Regression Dataset: Appliances Energy Consuption 
+
+Description: This dataset was used to develop regression models for predicting appliances' energy usage within a low-energy building. The data is multivariate and time-series, with 19735 instances and 29 real feature types. The dataset spans approximately 4.5 months, with data recorded at 10-minute intervals. Temperature and humidity conditions were monitored using a ZigBee wireless sensor network, with data transmitted every 3.3 minutes and then averaged over 10-minute periods. Energy data was logged every 10 minutes with m-bus energy meters. Weather data from the nearest airport weather station (Chievres Airport, Belgium) was integrated from a public dataset sourced from Reliable Prognosis (rp5.ru). The dataset includes two random variables for testing regression models and filtering out non-predictive attributes.
