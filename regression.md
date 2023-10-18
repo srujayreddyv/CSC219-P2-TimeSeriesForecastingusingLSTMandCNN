@@ -15,12 +15,12 @@ Before applying any machine learning techniques, we conduct data preprocessing t
 ## LSTM Model:
 In the subsequent part, we focus on building LSTM (Long Short-Term Memory) models for time series forecasting. LSTM networks are a type of recurrent neural network (RNN) designed for handling sequences of data, making them well-suited for time series analysis. Notable steps in the LSTM model building process include:
 
-Designing the network architecture.
-  1.Training the model.
-  2.Monitoring training progress and early stopping to prevent overfitting.
-  3.Saving the best-performing model.
-  4.Evaluating the model's performance using Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) metrics.
-  5.Visualizing the regression results.
+  1.Designing the network architecture.
+  2.Training the model.
+  3.Monitoring training progress and early stopping to prevent overfitting.
+  4.Saving the best-performing model.
+  5.Evaluating the model's performance using Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) metrics.
+  6.Visualizing the regression results.
 
 Efficient N for LSTM Model:
 This part also involves the determination of an efficient sequence number (N) for the LSTM model. Adjusting the sequence length can impact the model's ability to capture patterns in the data.
@@ -37,5 +37,8 @@ A significant part of this project focuses on applying Convolutional Neural Netw
   4.Monitoring training progress and implementing early stopping.
   5.Saving the best-performing CNN model.
   6.valuating the CNN model's performance and visualizing the regression results.
+
+Efficient N for CNN Model:
+This part also involves the determination of an efficient sequence number (N) for the CNN model. Adjusting the sequence length can impact the model's ability to capture patterns in the data.
 
 The second part of our project dives into the world of time series forecasting with regression techniques. By employing LSTM and CNN models, we aim to predict numerical values based on historical data, making this project an exciting journey through the world of deep learning for time series analysis. Stay tuned for further updates as we delve deeper into the exploration of these advanced models.
