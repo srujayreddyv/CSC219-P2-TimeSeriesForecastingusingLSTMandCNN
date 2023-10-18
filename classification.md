@@ -1,4 +1,4 @@
-# Project Title: Strawberry Authenticity Detection with FTIR Spectroscopy Data
+# Time Series Forecasting using LSTM and CNN for Classification
 
 ## Project Overview:
 In the first part of this collaborative project, our team is taking on the challenge of distinguishing real strawberries from imposters. The imposters could be adulterated strawberries or even entirely different fruits. Leveraging Fourier transform infrared (FTIR) spectroscopy with attenuated total reflectance (ATR) sampling, our primary goal is to develop a machine learning model that can effectively tell whether a strawberry is genuine or not.
