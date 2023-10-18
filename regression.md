@@ -4,7 +4,7 @@
 In this second part of our project, we continue our exploration of time series forecasting using deep learning techniques. Our goal is to build and evaluate regression models for time series data. We employ Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNN) to predict numerical values based on historical data.
 
 ## Uploaded Dataset:
-The project begins with the upload of a dataset, which serves as the foundation for our regression task. This dataset likely contains historical time series data, but the specific details are not included in this part of the project description.
+Our project commences with the acquisition of a comprehensive dataset that serves as the cornerstone of our regression task. This dataset is tailored for regression purposes and centers on forecasting the energy consumption of appliances within a low-energy building. It is a multifaceted, time-series dataset consisting of 19735 instances and 29 real feature types. The data spans approximately 4.5 months, with observations recorded at 10-minute intervals.
 
 ## Data Preprocessing:
 Before applying any machine learning techniques, we conduct data preprocessing to ensure data quality and consistency. This phase includes:
