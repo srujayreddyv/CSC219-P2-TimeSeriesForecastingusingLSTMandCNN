@@ -38,7 +38,7 @@ A significant part of this project focuses on applying Convolutional Neural Netw
   5.Saving the best-performing CNN model.
   6.valuating the CNN model's performance and visualizing the regression results.
 
-Efficient N for CNN Model:
+## Efficient N for CNN Model:
 This part also involves the determination of an efficient sequence number (N) for the CNN model. Adjusting the sequence length can impact the model's ability to capture patterns in the data.
 
 The second part of our project dives into the world of time series forecasting with regression techniques. By employing LSTM and CNN models, we aim to predict numerical values based on historical data, making this project an exciting journey through the world of deep learning for time series analysis. Stay tuned for further updates as we delve deeper into the exploration of these advanced models.
